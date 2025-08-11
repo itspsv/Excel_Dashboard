@@ -22,3 +22,7 @@ An interactive Excel dashboard showcasing sales and profit trends by country and
 - Early-year months show higher profits.  
 - Chocolate Chip and White Choc Macadamia are top performers.  
 - India and UK lead in total profit. 
+
+## Dashboard
+
+![Dashboard](Dashboard.png)
